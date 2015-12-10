@@ -1,5 +1,5 @@
 # [Locating Archaeological Sites in Northern Mesopotamia](https://cleopythons.wordpress.com/)
-(see a YouTube introduction to our project here)
+(see a YouTube introduction to our project [here]())
 
 *WARNING: Satellite Image files downloaded in Part 1 and Part 5 are large; downloading all of them requires ~50GB free space.*
 (Downloaded and Wrangled Data Produced by these Notebooks is available [here]())
