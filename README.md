@@ -1,7 +1,8 @@
 # [Locating Archaeological Sites in Northern Mesopotamia](https://cleopythons.wordpress.com/)
-(see a YouTube introduction to our project [here]())
+(Watch the [YouTube video introduction]() to our project)
 
 Downloaded and Wrangled DATA Produced by these Notebooks available in a [Dropbox folder](https://www.dropbox.com/sh/ayypu76velfpn7f/AADHxLd0p05vgIie2xys55dGa?dl=0)
+
 *WARNING: Satellite Image files downloaded in Part 1 and Part 5 are large; downloading all of them requires ~50GB free space.*
 
 ## IPython Notebook Order:
