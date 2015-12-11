@@ -9,7 +9,7 @@
 2. Part 2: Response Variable Wrangling
 3. Part 3: Random Forest Classification
 4. Part 4: Logistic Regression
-5. Part 5: Site Prediction in Northern Iraq (in "Iraq Predictions" Folder)
+5. Part 5: Iraq Predictions (in "Iraq Predictions" Folder)
 
 ## Additional Files needed to run code included in repository:
 * Images: Additional images for Notebook Illustration
