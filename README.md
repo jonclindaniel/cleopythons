@@ -1,5 +1,5 @@
 # [Locating Archaeological Sites in Northern Mesopotamia](https://cleopythons.wordpress.com/)
-(Watch the [YouTube video introduction]() to our project)
+(Watch the [YouTube video introduction](https://www.youtube.com/watch?v=CKBWykNrROU) to our project)
 
 Downloaded and Wrangled DATA Produced by these Notebooks available in a [Dropbox folder](https://www.dropbox.com/sh/ayypu76velfpn7f/AADHxLd0p05vgIie2xys55dGa?dl=0)
 
