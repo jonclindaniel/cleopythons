@@ -18,7 +18,7 @@
 * chromedriver.exe: used by Selenium in Part 2 Notebook on Windows machine to download .kmz file programmatically
 * WGS84_1: Used by Grass GIS tool in Part 2 Notebook to work with WGS84 Projected data (.kmz file)
 
-## Important Python libraries needed to perform geographic wrangling:
-* gdal
+## Important software libraries needed to perform geographic wrangling:
+** gdal
 * rasterstats
 * osgeo
